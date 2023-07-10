@@ -27,3 +27,30 @@
     margin-top: 131px;
     
 }
+.featured{
+    width: 1440px;
+    height: 595px;
+    display:flex;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+}
+.tree_box{
+    width:464px ;
+    height:538px ;
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(167, 33, 98, 0.15);
+}
+.tree_name{
+    color: #272727;
+    /* text-align: center; */
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+    width: 233px;
+    height: 35px;
+    margin-top: 10px;
+    margin-left:100px;
+  
+}
